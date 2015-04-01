@@ -116,7 +116,7 @@ def arguments(argsval):
     parser.add_argument('-un', '--user_name', type=str, required=False, default="radoicic",
                         help="""Overrides user.name git config.
                         If not specified, the global config is used.""")
-    parser.add_argument('-ue', '--user_email', type=str, required=False, default="radoicic04@gmail.com",
+    parser.add_argument('-ue', '--user_email', type=str, required=False, default="150410633+radoicic@users.noreply.github.com",
                         help="""Overrides user.email git config.
                         If not specified, the global config is used.""")
     parser.add_argument('-da', '--days_ago', type=int, required=False, default=25,
