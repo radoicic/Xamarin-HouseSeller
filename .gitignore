@@ -1,3 +1,4 @@
+*.md
 # globs
 Makefile.in
 *.userprefs
